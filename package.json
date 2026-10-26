@@ -8,15 +8,15 @@
     },
     "dependencies": {
         "@tailwindcss/vite": "^4.3.3",
-        "autoprefixer": "^10.5.4",
-        "axios": "^1.19.0",
-        "concurrently": "^10.0.5",
+        "autoprefixer": "^10.6.1",
+        "axios": "^1.20.0",
+        "concurrently": "^10.0.6",
         "laravel-vite-plugin": "^3.2",
         "tailwindcss": "^4.3.3",
-        "vite": "^8.2.2"
+        "vite": "^8.3.5"
     },
     "optionalDependencies": {
-        "@rollup/rollup-linux-x64-gnu": "4.63.0",
+        "@rollup/rollup-linux-x64-gnu": "4.65.1",
         "@tailwindcss/oxide-linux-x64-gnu": "^4.3.3",
         "lightningcss-linux-x64-gnu": "^1.33.0"
     }
